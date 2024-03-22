@@ -1,7 +1,5 @@
 package test;
 
-import java.util.ArrayList;
-
 public class Main {
     public static void main(String[] args) {
         Transport bicycle = new Bicycle();
